@@ -1,6 +1,6 @@
 #!/bin/bash
 
-plaintext="The quick brown fox jumps over the lâzy dতg"
+plaintext="The quick brown fox jumps over the desktop 1 2 3"
 key="ThisIsA16ByteKey"
 
 source venv/bin/activate
